@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 import { CabecalhoModule } from './componentes/cabecalho/cabecalho.module';
 import { AutenticacaoModule } from './autenticacao/autenticacao.module';
+import { MenuComponent } from './componentes/menu/menu.component';
 
 @NgModule({
   declarations: [AppComponent],
